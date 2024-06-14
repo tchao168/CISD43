@@ -2,6 +2,7 @@ CISD43 Final project -USA-Housing pricing predicting
 
 The purpose is to integrate the data analysis methods we learned in MtSAC CISD43.
 Data was supplied by the instructor.
+
 Description:
 Analysis data file USA-Housing.csv to predict the best item will affect the house pricing trend. To simplify the analysis in this dataset, I drop off the Address column, for practice only. In reality, address and location are important issues related to house pricing.
 Steps of this project
