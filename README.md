@@ -8,14 +8,21 @@ Analysis data file USA-Housing.csv to predict the best item will affect the hous
 Steps of this project
 1. Input and clean data
 2. Visualization data(vary)
--- histogram (distribution of all items)
--- boxplot (number of bedrooms with price)
---heatmap (correlation of all conditions)
+   
+   -- histogram (distribution of all items)
 
-3. Data Analysis methods
- -- Linear Regression (least error of sum of square root to get a best-fit line)
- -- KNN (K Nearest Neighbors), find the best K is to find the best price group. 
+   -- boxplot (number of bedrooms with price)
 
-4. Conclusion:
---Linear Regression will give you direct results.
---KNN, gives you the label, but no obvious result
+   --heatmap (correlation of all conditions)
+
+4. Data Analysis methods
+   
+   -- Linear Regression (least error of sum of square root to get a best-fit line)
+   
+   -- KNN (K Nearest Neighbors), find the best K is to find the best price group. 
+
+5. Conclusion:
+   
+   --Linear Regression will give you direct results.
+
+   --KNN, gives you the label, but no obvious result
